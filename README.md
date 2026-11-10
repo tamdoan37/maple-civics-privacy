@@ -1,6 +1,5 @@
-# Maple Civics: privacy policy and support
+# Maple Civics privacy policy
 
-Public pages for the Maple Civics app (GitHub Pages).
+https://tamdoan37.github.io/maple-civics-privacy/privacy.html
 
-- Privacy policy: https://tamdoan37.github.io/maple-civics-privacy/privacy.html
-- Support: https://tamdoan37.github.io/maple-civics-privacy/
+Contact: tamdoan37@hotmail.com
